@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+SQLAlchemy
+passlib
+bcrypt
+python-jose
+pillow
+torch
+torchvision
+gdown
+python-multipart
+matplotlib
